@@ -1,2 +1,2 @@
 # new-file
-my first GitHub practice
+my first GitHub practices
